@@ -1,0 +1,54 @@
+{
+  "integracao": {
+    "arquivo": "Set_Ataque_Godot_Integracao.zip",
+    "bytes": 39318984,
+    "sha256": "373bc4f43389f922acbeb64460b0bddb439241dfc4f3b583870f8719b36163d6"
+  },
+  "completo": {
+    "arquivo": "Set_Ataque_Investida_Implacavel_Godot.zip",
+    "bytes": 371761492,
+    "sha256": "75b32c97b79f68c6018af5bdc9660bea21a5b82d921facad674c519d6a328c79",
+    "partes": [
+      {
+        "arquivo": "pacote_completo.part001",
+        "bytes": 47185920,
+        "sha256": "05d36c4f52f2aba5d1b44fb2d6e16b4bbe02d2e1f36a1a86e619442de7ededf6"
+      },
+      {
+        "arquivo": "pacote_completo.part002",
+        "bytes": 47185920,
+        "sha256": "d8fd9e7b225d9dd3c6f73b777789390bc869892d506b84516d5e11f6746198bb"
+      },
+      {
+        "arquivo": "pacote_completo.part003",
+        "bytes": 47185920,
+        "sha256": "09d3a767350b210cad6b40fe0c4faba91fdda95e62352fadc41245d6394655df"
+      },
+      {
+        "arquivo": "pacote_completo.part004",
+        "bytes": 47185920,
+        "sha256": "6ce0c91a726ded86e6e7e8feeda57912613b36fb1873a9d013a3cadf21006a5f"
+      },
+      {
+        "arquivo": "pacote_completo.part005",
+        "bytes": 47185920,
+        "sha256": "96ff3f3c560f3fb478370055e87aa956030f265f3c30f5e0ff7345dc10aac44d"
+      },
+      {
+        "arquivo": "pacote_completo.part006",
+        "bytes": 47185920,
+        "sha256": "6636c37bd0aeffab42322adfafef42432cbeb7efbd9b22710bebdb16d3f86c62"
+      },
+      {
+        "arquivo": "pacote_completo.part007",
+        "bytes": 47185920,
+        "sha256": "2af048ecd616fac7f25784743dacb88bfb356b9640981ec5a7eb1015df194f1e"
+      },
+      {
+        "arquivo": "pacote_completo.part008",
+        "bytes": 41460052,
+        "sha256": "51fb9bb04ed3815ed2a47f136f03bc264ddb292d1b5c9a484ceb2b8885299eff"
+      }
+    ]
+  }
+}
